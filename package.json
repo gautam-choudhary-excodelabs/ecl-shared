@@ -1,11 +1,11 @@
 {
   "name": "ecl-shared",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "type": "module",
-   "files": [
+  "files": [
     "dist"
   ],
-   "exports": {
+  "exports": {
     "./ui": {
       "types": "./dist/ui.d.ts",
       "import": "./dist/ui.js"
